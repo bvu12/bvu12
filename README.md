@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+My name is [Brian](https://bvu12.github.io/) and I'm a Computer Science student currently based out of Vancouver, Canada 🇨🇦.
+
 <!--
 **bvu12/bvu12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
